@@ -1,0 +1,9 @@
+C:\Users\Desarrollo RA\Documents\NET\minimarket_presentacion\minimarket.datos\bin\Debug\minimarket.datos.dll
+C:\Users\Desarrollo RA\Documents\NET\minimarket_presentacion\minimarket.datos\bin\Debug\minimarket.datos.pdb
+C:\Users\Desarrollo RA\Documents\NET\minimarket_presentacion\minimarket.datos\bin\Debug\minimarket.entidades.dll
+C:\Users\Desarrollo RA\Documents\NET\minimarket_presentacion\minimarket.datos\bin\Debug\minimarket.entidades.pdb
+C:\Users\Desarrollo RA\Documents\NET\minimarket_presentacion\minimarket.datos\obj\Debug\minimarket.datos.csproj.AssemblyReference.cache
+C:\Users\Desarrollo RA\Documents\NET\minimarket_presentacion\minimarket.datos\obj\Debug\minimarket.datos.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo RA\Documents\NET\minimarket_presentacion\minimarket.datos\obj\Debug\minimarket.datos.csproj.CopyComplete
+C:\Users\Desarrollo RA\Documents\NET\minimarket_presentacion\minimarket.datos\obj\Debug\minimarket.datos.dll
+C:\Users\Desarrollo RA\Documents\NET\minimarket_presentacion\minimarket.datos\obj\Debug\minimarket.datos.pdb

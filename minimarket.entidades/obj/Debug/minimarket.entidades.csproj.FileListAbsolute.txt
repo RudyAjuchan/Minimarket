@@ -1,0 +1,6 @@
+C:\Users\Desarrollo RA\Documents\NET\minimarket_presentacion\minimarket.entidades\bin\Debug\minimarket.entidades.dll
+C:\Users\Desarrollo RA\Documents\NET\minimarket_presentacion\minimarket.entidades\bin\Debug\minimarket.entidades.pdb
+C:\Users\Desarrollo RA\Documents\NET\minimarket_presentacion\minimarket.entidades\obj\Debug\minimarket.entidades.csproj.AssemblyReference.cache
+C:\Users\Desarrollo RA\Documents\NET\minimarket_presentacion\minimarket.entidades\obj\Debug\minimarket.entidades.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo RA\Documents\NET\minimarket_presentacion\minimarket.entidades\obj\Debug\minimarket.entidades.dll
+C:\Users\Desarrollo RA\Documents\NET\minimarket_presentacion\minimarket.entidades\obj\Debug\minimarket.entidades.pdb
